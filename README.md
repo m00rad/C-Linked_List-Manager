@@ -1,4 +1,4 @@
-# Console-Linked_List-Control-System
+# C-Linked_List-manager
 At the conclusion of the C Programming course within the ITI Embedded System Diploma program, students were tasked with an assignment. They were required to create a console application capable of performing various operations on linked lists in C. Instead of just meeting the basic requirements, I decided to push the boundaries and develop a comprehensive system that utilizes pointers, dynamic memory allocation, structures, and the Bubble Sort algorithm.
 
 The application provides users with a menu of options, enabling them to manipulate the linked list in various ways. These options include:
