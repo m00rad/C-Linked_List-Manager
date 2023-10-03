@@ -90,7 +90,7 @@ void main()
 					printf(" Enter the targeted Node Index : ");
 					scanf("%d",&NodeIndex);
 					u32 NewData;
-					printf(" Enter the targeted Node Index : ");
+					printf(" Enter New Data Value : ");
 					scanf("%lu",&NewData);
 					UpdateNode(Head,NodeIndex,NewData);
 				}
