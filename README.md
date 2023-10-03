@@ -14,6 +14,6 @@ The application provides users with a menu of options, enabling them to manipula
 9. **To Search for Node:** Lets the user search for a specific node value in the list (Extra).
 10. **To Get Element At:** Retrieves a node's data at a specific position in the list (Extra).
 11. **To Arrange List:** Sorts the list in ascending order based on node values (Extra).
-12. **To Exit:** Allows the user to exit the application(Mandatory), ensuring proper memory deallocation (EXtra).
+12. **To Exit:** Allows the user to exit the application(Mandatory), ensuring proper memory deallocation (Extra).
 
-This comprehensive system offers users a wide range of functionalities to work with linked lists, making it a powerful and user-friendly tool for managing and manipulating data within the list."
+This comprehensive system offers users a wide range of functionalities to work with linked lists, making it a powerful and user-friendly tool for managing and manipulating data within the list.
